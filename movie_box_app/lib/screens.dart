@@ -1825,7 +1825,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
         ListTile(
           leading: const Icon(Icons.info_outline),
           title: const Text('Credits and licenses'),
-          subtitle: const Text('Movie Box by R3AP3R Editz'),
+          subtitle: const Text('Based on Movie Box by R3AP3R Editz'),
           onTap: () => Navigator.of(context).push(
             MaterialPageRoute<void>(builder: (_) => const CreditsScreen()),
           ),

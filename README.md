@@ -1,4 +1,8 @@
-# Movie Box
+# Movie Box Hybrid
+
+> **Modified version.** Movie Box Hybrid is based on [Movie Box by R3AP3R Editz](https://github.com/iotserver24/movie-box) and maintained by 972tex-tech. Changes: new app name and ID (`dev.tex972.moviebox_hybrid`), arm64-only release builds. Not endorsed by the original creator. Licensed under the same Movie Box Source-Available License 1.0.
+
+# Movie Box (original README)
 
 An ad-free Flutter Android client with a self-hostable Python catalog and playback API, created by **[R3AP3R Editz](https://github.com/iotserver24)**.
 

@@ -69,6 +69,13 @@ class CreditsScreen extends StatelessWidget {
           ),
           const SizedBox(height: 12),
           const SelectableText(projectUrl),
+          const SizedBox(height: 12),
+          const Text(
+            'Movie Box Hybrid is a modified version, based on Movie Box by '
+            'R3AP3R Editz. Modified and maintained by 972tex-tech. Changes: '
+            'new app name and ID, arm64-only builds. Not endorsed by the '
+            'original creator.',
+          ),
           const SizedBox(height: 18),
           const Text(
             'Source-available, not OSI-approved open source. '
